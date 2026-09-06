@@ -18,4 +18,4 @@ petname = input("Nimi: ")
 print("Mitä lemmikki teki?")
 q1 = input("Teko: ")
 
-print(start, teacher, "en tiedä mihin se", type1, "oikein joutui.", "Lemmikki"+pet+"ni" ,petname, "varmaankin", q1 ,"sen!")
+print(f"{start}, {teacher}, en tiedä mihin se {type1} oikein joutui. Lemmikki{pet}ni {petname} varmaankin {q1} sen!")
